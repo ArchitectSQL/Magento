@@ -1,0 +1,1 @@
+[2017-11-30 23:41:47] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http://developer221.loc/","invalidateInfo":{"tags":["interception","CONFIG"],"mode":"matchingTag"}} []

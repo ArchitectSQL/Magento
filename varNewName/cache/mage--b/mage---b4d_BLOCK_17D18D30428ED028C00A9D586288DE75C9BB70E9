@@ -1,0 +1,74 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1512084657;s:6:"expire";i:1512171057;s:4:"tags";s:45:"b4d_CAT_P,b4d_BLOCK_HTML,b4d_CAT_P_1,b4d_MAGE";}
+    <div class="block widget block-products-list grid">
+                <div class="block-title">
+            <strong>Catalog Product List</strong>
+        </div>
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-product-grid">
+                                                                                        <li class="product-item">
+                        <div class="product-item-info">
+                            <a href="http://developer221.loc/guide-magento-2-developers.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://developer221.loc/pub/static/version1511995759/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg"
+            width="135"
+            height="135"
+            alt="Guide Magento 2 Developers"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Guide Magento 2 Developers"
+                                       href="http://developer221.loc/guide-magento-2-developers.html"
+                                       class="product-item-link">
+                                        Guide Magento 2 Developers                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-1-widget-product-grid"                data-price-amount="1000"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">$1,000.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                            <pre class='xdebug-var-dump' dir='ltr'><small>string</small> <font color='#cc0000'>'Plugin1	-	beforeGetAddToCartUrl'</font> <i>(length=31)</i>
+</pre><pre class='xdebug-var-dump' dir='ltr'><small>string</small> <font color='#cc0000'>'Plugin1	-	aroundGetAddToCartUrl'</font> <i>(length=31)</i>
+</pre><pre class='xdebug-var-dump' dir='ltr'><small>string</small> <font color='#cc0000'>'Plugin2	-	beforeGetAddToCartUrl'</font> <i>(length=31)</i>
+</pre><pre class='xdebug-var-dump' dir='ltr'><small>string</small> <font color='#cc0000'>'Plugin2	-	aroundGetAddToCartUrl'</font> <i>(length=31)</i>
+</pre><pre class='xdebug-var-dump' dir='ltr'><small>string</small> <font color='#cc0000'>'Plugin3	-	beforeGetAddToCartUrl'</font> <i>(length=31)</i>
+</pre><pre class='xdebug-var-dump' dir='ltr'><small>string</small> <font color='#cc0000'>'Plugin3	-	aroundGetAddToCartUrl'</font> <i>(length=31)</i>
+</pre><pre class='xdebug-var-dump' dir='ltr'><small>string</small> <font color='#cc0000'>'Plugin3	-	afterGetAddToCartUrl'</font> <i>(length=30)</i>
+</pre><pre class='xdebug-var-dump' dir='ltr'><small>string</small> <font color='#cc0000'>'Plugin2	-	afterGetAddToCartUrl'</font> <i>(length=30)</i>
+</pre><pre class='xdebug-var-dump' dir='ltr'><small>string</small> <font color='#cc0000'>'Plugin1	-	afterGetAddToCartUrl'</font> <i>(length=30)</i>
+</pre>                                                        <button class="action tocart primary" data-post='{"action":null,"data":{"product":"1","uenc":"aHR0cDovL2RldmVsb3BlcjIyMS5sb2Mv"}}' type="button" title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/developer221.loc\/wishlist\/index\/add\/","data":{"product":"1","uenc":"aHR0cDovL2RldmVsb3BlcjIyMS5sb2Mv"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/developer221.loc\/catalog\/product_compare\/add\/","data":{"product":"1","uenc":"aHR0cDovL2RldmVsb3BlcjIyMS5sb2Mv"}}' title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+                    </div>
+    </div>
